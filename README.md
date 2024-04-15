@@ -1,2 +1,2 @@
 # ciclorepeticion
-principios clico for y while
+principios ciclo for y while
